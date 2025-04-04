@@ -23,17 +23,28 @@ The Armed Conflict Location & Event Data Project
 November 2024: https://storymaps.arcgis.com/stories/2da5ecff7a774fba9ff61954460d8ff6
 
 ## Programming Projects
+### Simulated Family Banking System
+![image](https://github.com/user-attachments/assets/e8b9b4c6-4f95-4ac7-a4f2-783525c3ed83)
+![image](https://github.com/user-attachments/assets/f102c559-bdc4-494c-8543-76ff3497ce1f)
+
+Python, HTML, CSS, SQLite
+
+May 2024 (Documentation withheld to comply with academic integrity policies)
+
 ### Social Media website
 Python, HTML, CSS, SQLite
 ![image](https://github.com/user-attachments/assets/f3e5cc1c-a7dc-41d3-926c-2ac87e4f16a3)
-May 2023: https://github.com/PaulaYaniz/Unit4
+
+May 2023. Documentation:https://github.com/PaulaYaniz/Unit4
 
 ### Mood-tracker app
 Kivy/Python 
 ![image](https://github.com/user-attachments/assets/f30fbd35-f8dd-4d8c-8b6c-7d418ca6f40b)
-March 2023: https://github.com/PaulaYaniz/Unit3
+
+March 2023. Documentation: https://github.com/PaulaYaniz/Unit3
 
 ### Distributed Weather Station
 Python, Arduino, DHT11
 ![image](https://github.com/user-attachments/assets/b8ed0be4-a23c-4fc1-959f-ba92979c46e3)
-December 2022: https://github.com/PaulaYaniz/Unit2
+
+December 2022. Documentation: https://github.com/PaulaYaniz/Unit2
