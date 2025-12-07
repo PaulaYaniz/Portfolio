@@ -3,15 +3,6 @@
 ## GIS Projects
 ArcGIS software: ArcGIS Online, Business Analyst, StoryMaps
 
-### ESRI MOOC: Make an Impact with Modern Geo Apps
-Apr 9 - May 7, 2025: https://www.esri.com/training/catalog/663a68f536d6dc1f7d757853/make-an-impact-with-modern-geo-apps/
-
-### ESRI MOOC: GIS for Climate Action
-Feb 19 - Apr 2, 2025: https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/
-
-### ESRI MOOC: Going Places with Spatial Analysis
-Jan 29 - Mar 12, 2025: https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/
-
 ### ARCGIS Cyclone Idai: Resilience and Response
 Humanitarian and Disaster Response in Mozambique
 ![image](https://github.com/user-attachments/assets/6b368eb5-a33f-4173-9f85-6a2854899c91)
